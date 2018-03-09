@@ -6,7 +6,6 @@ import chatRoom from '@/components/chatRoom'
 Vue.use(Router)
 
 export default new Router({
-  mode: "history",
   routes: [
     {
       path: "/",
